@@ -1,9 +1,10 @@
 import datetime as dt
+import os
 import smtplib
 import random
 
 my_mail="sharyuadsul19@gmail.com"
-password = "jlufobupeorayteq"
+password = os.environ["APP_PASSWORD"]
 
 now = dt.datetime.now()
 if now.weekday()==0:

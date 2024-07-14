@@ -3,9 +3,15 @@ import datetime as dt
 import pandas as pd
 import random
 import smtplib
+import os
+
+from dotenv import load_dotenv
+
+load_dotenv(dotenv_path='../../.env')
+from twilio.rest import Client
 
 my_mail="sharyuadsul19@gmail.com"
-password = "jlufobupeorayteq"
+password = os.getenv('APP_PASSWORD')
 
 now = dt.datetime.now()
 today= (now.month, now.day)

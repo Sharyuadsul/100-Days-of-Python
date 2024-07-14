@@ -1,26 +1,146 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="b52b4d36-d0a8-4949-87e4-ea79c6b0734b" name="Changes" comment="" />
+    <list default="true" id="b52b4d36-d0a8-4949-87e4-ea79c6b0734b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Day01/BandNameGenerator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day02/TipCalculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day03/TreasureIsland.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day04/RockPaperScissors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day05/PasswordGenerator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day07/Project-Hangman/Hamgman_part4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day07/Project-Hangman/Hangman_final.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day07/Project-Hangman/Hangman_part1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day07/Project-Hangman/Hangman_part2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day07/Project-Hangman/Hangman_part3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day08/CaesarCipher/CaesarCipher_Final.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day08/CaesarCipher/CaesarCipher_part2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day08/CaesarCipher/CaesarCipher_part3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day08/CaesarCipher/CarserCipher_part1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day08/CaesarCipher/art.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day09/SecretAuction_project.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day09/art.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day10/Calculator/art.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day10/Calculator/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day11/Capstone_Project1/art.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day11/Capstone_Project1/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day12/The_Number_guessing_Game/art.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day12/The_Number_guessing_Game/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day13/Debugging/Exercise1/code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day13/Debugging/Exercise1/solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day14/Higher Lower Game/art.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day14/Higher Lower Game/game_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day14/Higher Lower Game/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day35/BringAnUmbrella/day35-start.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day36/Stock_Trading_News_Alert_Project/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day37/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day39/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day45/.idea/Day45.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/100 Days OF Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/100 Days OF Python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day17/constructor.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day17/data.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day17/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day17/question_model.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day17/quiz_brain.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day18/Day 18 - spot painting/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day18/Day 18 - spot painting/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day19/TurtleRace.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day19/TurtleRaceProject/TurtleRace.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day24/Snake with highscore/hscore.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Day24/Snake with highscore/hscore.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day31/capstone02-FlashCard/data/words_to_learn.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Day31/capstone02-FlashCard/data/words_to_learn.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day32/Birthday Wisher/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day32/Birthday Wisher/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day32/day-32-start/monday_motivator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day32/day-32-start/monday_motivator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day33/iss_overhead.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day33/ISS_OVERHEAD_PROJECT/iss_overhead.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day33/kanye_quotes/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day33/kanye_quotes/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day35/day35-start.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day36/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day37/HabitTracker.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day37/Habit_Tracker/HabitTracker.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day38/Exercise Tracking with py and Google Sheets/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day38/Exercise Tracking with py and Google Sheets/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day39/flight-deals-start/data_manager.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day39/flight-deals-start/flight_data.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day39/flight-deals-start/flight_search.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day39/flight-deals-start/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day39/flight-deals-start/notification_manager.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2iSa7DS0ZUhFO8PA1u9K4qE376X" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.100 Days OF Python.executor": "Run",
+    "Python.BandNameGenerator.executor": "Run",
+    "Python.CaesarCipher_Final.executor": "Run",
+    "Python.Hangman_final.executor": "Run",
+    "Python.PasswordGenerator.executor": "Run",
+    "Python.RockPaperScissors.executor": "Run",
+    "Python.SecretAuction_project.executor": "Run",
+    "Python.TipCalculator.executor": "Run",
+    "Python.TreasureIsland.executor": "Run",
+    "Python.TurtleRace.executor": "Run",
+    "Python.data_manager.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.start.executor": "Run",
+    "Python.tkinter-demo.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Yash/Desktop/100 Days OF Python/Day25/US_States_Game"
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Yash/Desktop/100 Days OF Python/Day05/PasswordGenerator.py",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Yash\Desktop\100 Days OF Python\Day33\ISS_OVERHEAD_PROJECT" />
+      <recent name="C:\Users\Yash\Desktop\100 Days OF Python\Day19\TurtleRaceProject" />
+      <recent name="C:\Users\Yash\Desktop\100 Days OF Python\Day12" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="PasswordGenerator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="100 Days OF Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="APP_PASSWORD" value="jlufobupeorayteq" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\Yash\Desktop\100 Days OF Python\Day39\Flight_Cheaper_Deals_Project\flight-deals-start" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day05/PasswordGenerator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.PasswordGenerator" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -38,5 +158,8 @@
       <updated>1719486262874</updated>
     </task>
     <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName=".env" />
   </component>
 </project>

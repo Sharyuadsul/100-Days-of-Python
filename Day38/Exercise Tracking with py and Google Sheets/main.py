@@ -1,9 +1,12 @@
 import requests
 import datetime as dt
+from dotenv import load_dotenv
 import os
+load_dotenv(dotenv_path='../../.env')
 
-APP_ID = "ad03736d"
-API_KEY = os.environ["APP_ID"]
+APP_ID = os.getenv("NUTRITIONIX_APP_ID")
+API_KEY = os.getenv("NUTRITIONIX_API_KEY")
+#read the Nutritionix Api Doc and get your Api_id and Api_key
 
 WEIGHT_KG = 45
 HEIGHT_CM = 160
@@ -39,8 +42,8 @@ today_date = dt.datetime.now().strftime("%d/%m/%Y")
 today_time = dt.datetime.now().strftime("%H:%M:%S")
 
 sheety_header=(
-    "sharyuadsul19",
-    "Adsul@12345"
+    os.environ["SHEETY_USERNAME"],
+    os.environ["SHEETY_PASSWORD"]
 )
 
 for exercise in data:
