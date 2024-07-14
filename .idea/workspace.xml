@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b52b4d36-d0a8-4949-87e4-ea79c6b0734b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Day35/BringAnUmbrella/day35-start.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day35/BringAnUmbrella/day35-start.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day36/Stock_Trading_News_Alert_Project/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day36/Stock_Trading_News_Alert_Project/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="b52b4d36-d0a8-4949-87e4-ea79c6b0734b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,7 +41,7 @@
     "Python.start.executor": "Run",
     "Python.tkinter-demo.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "Rebasing master",
     "last_opened_file_path": "C:/Users/Yash/Desktop/100 Days OF Python/Day05/PasswordGenerator.py",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
