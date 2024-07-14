@@ -83,9 +83,9 @@ if abs(diff_percent) >5:
 
     for article in formatted_list:
         message = client.messages.create(
-          from_='+13345818652',
+          from_=os.getenv('TWILIO_NUMBER'),
           body=article,
-          to='+917020419875'
+          to=os.getenv('MY_NUMBER')
         )
 
         print(message.sid)

@@ -5,63 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b52b4d36-d0a8-4949-87e4-ea79c6b0734b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Day01/BandNameGenerator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day02/TipCalculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day03/TreasureIsland.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day04/RockPaperScissors.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day05/PasswordGenerator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day07/Project-Hangman/Hamgman_part4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day07/Project-Hangman/Hangman_final.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day07/Project-Hangman/Hangman_part1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day07/Project-Hangman/Hangman_part2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day07/Project-Hangman/Hangman_part3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day08/CaesarCipher/CaesarCipher_Final.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day08/CaesarCipher/CaesarCipher_part2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day08/CaesarCipher/CaesarCipher_part3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day08/CaesarCipher/CarserCipher_part1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day08/CaesarCipher/art.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day09/SecretAuction_project.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day09/art.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day10/Calculator/art.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day10/Calculator/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day11/Capstone_Project1/art.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day11/Capstone_Project1/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day12/The_Number_guessing_Game/art.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day12/The_Number_guessing_Game/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day13/Debugging/Exercise1/code.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day13/Debugging/Exercise1/solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day14/Higher Lower Game/art.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day14/Higher Lower Game/game_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day14/Higher Lower Game/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day35/BringAnUmbrella/day35-start.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day36/Stock_Trading_News_Alert_Project/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day37/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day39/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day45/.idea/Day45.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/100 Days OF Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/100 Days OF Python.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day17/constructor.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day17/data.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day17/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day17/question_model.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day17/quiz_brain.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day18/Day 18 - spot painting/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day18/Day 18 - spot painting/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day19/TurtleRace.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day19/TurtleRaceProject/TurtleRace.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day24/Snake with highscore/hscore.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Day24/Snake with highscore/hscore.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day31/capstone02-FlashCard/data/words_to_learn.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Day31/capstone02-FlashCard/data/words_to_learn.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day32/Birthday Wisher/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day32/Birthday Wisher/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day32/day-32-start/monday_motivator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day32/day-32-start/monday_motivator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day33/iss_overhead.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day33/ISS_OVERHEAD_PROJECT/iss_overhead.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day33/kanye_quotes/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day33/kanye_quotes/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day35/day35-start.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day36/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day37/HabitTracker.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day37/Habit_Tracker/HabitTracker.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day38/Exercise Tracking with py and Google Sheets/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day38/Exercise Tracking with py and Google Sheets/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day39/flight-deals-start/data_manager.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day39/flight-deals-start/flight_data.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day39/flight-deals-start/flight_search.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day39/flight-deals-start/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day39/flight-deals-start/notification_manager.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day35/BringAnUmbrella/day35-start.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day35/BringAnUmbrella/day35-start.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day36/Stock_Trading_News_Alert_Project/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day36/Stock_Trading_News_Alert_Project/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
