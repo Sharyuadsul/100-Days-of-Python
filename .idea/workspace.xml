@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b52b4d36-d0a8-4949-87e4-ea79c6b0734b" name="Changes" comment="" />
+    <list default="true" id="b52b4d36-d0a8-4949-87e4-ea79c6b0734b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Day35/BringAnUmbrella/day35-start.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day35/BringAnUmbrella/day35-start.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day36/Stock_Trading_News_Alert_Project/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day36/Stock_Trading_News_Alert_Project/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

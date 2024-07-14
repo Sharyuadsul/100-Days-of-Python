@@ -77,9 +77,9 @@ if abs(diff_percent) >5:
 
 #TODO 9. - Send each article as a separate message via Twilio. 
 
-    # account_sid = os.getenv('TWILIO_SID')
-    # auth_token = os.getenv('TWILIO_AUTH_TOKEN')
-    # client = Client(account_sid, auth_token)
+    account_sid = os.getenv('TWILIO_SID')
+    auth_token = os.getenv('TWILIO_AUTH_TOKEN')
+    client = Client(account_sid, auth_token)
 
     for article in formatted_list:
         message = client.messages.create(
