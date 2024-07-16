@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b52b4d36-d0a8-4949-87e4-ea79c6b0734b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Day35/BringAnUmbrella/day35-start.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day35/BringAnUmbrella/day35-start.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day36/Stock_Trading_News_Alert_Project/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day36/Stock_Trading_News_Alert_Project/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day45/bs4-start/Scraping_live_website.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day39/Flight_Cheaper_Deals_Project/flight-deals-start/data_manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day39/Flight_Cheaper_Deals_Project/flight-deals-start/data_manager.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day45/bs4-start/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day45/bs4-start/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +37,7 @@
     "Python.Hangman_final.executor": "Run",
     "Python.PasswordGenerator.executor": "Run",
     "Python.RockPaperScissors.executor": "Run",
+    "Python.Scraping_live_website.executor": "Run",
     "Python.SecretAuction_project.executor": "Run",
     "Python.TipCalculator.executor": "Run",
     "Python.TreasureIsland.executor": "Run",

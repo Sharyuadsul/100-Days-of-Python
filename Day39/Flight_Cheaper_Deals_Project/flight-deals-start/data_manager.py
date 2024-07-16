@@ -41,3 +41,7 @@ class DataManager:
 
             response = requests.put(f"{SHEETY_ENDPOINT}/{city['id']}", json=new_data, auth=(SHEETY_USERNAME, SHEETY_PASSWORD))
             # print(response.text)
+
+#
+# obj = DataManager()
+# obj.get_sheet_data()
