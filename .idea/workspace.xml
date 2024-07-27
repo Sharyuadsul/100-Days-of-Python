@@ -4,7 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b52b4d36-d0a8-4949-87e4-ea79c6b0734b" name="Changes" comment="" />
+    <list default="true" id="b52b4d36-d0a8-4949-87e4-ea79c6b0734b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day35/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day35/.idea/Day35.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day35/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day35/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day35/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day35/BringAnUmbrella/day35-start.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day35/BringAnUmbrella/day35-start.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day36/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day36/.idea/Day36.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day36/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day36/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day36/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day36/.project_config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day36/Stock_Trading_News_Alert_Project/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day36/Stock_Trading_News_Alert_Project/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +28,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Sharyuadsul&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Sharyuadsul/100-Days-of-Python.git&quot;,
+    &quot;accountId&quot;: &quot;62973288-c161-4d4c-825b-29f6dabea064&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -24,39 +51,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.100 Days OF Python.executor&quot;: &quot;Run&quot;,
-    &quot;Python.BandNameGenerator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.CaesarCipher_Final.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Hangman_final.executor&quot;: &quot;Run&quot;,
-    &quot;Python.PasswordGenerator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.RockPaperScissors.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Scraping_live_website.executor&quot;: &quot;Run&quot;,
-    &quot;Python.SecretAuction_project.executor&quot;: &quot;Run&quot;,
-    &quot;Python.TipCalculator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.TreasureIsland.executor&quot;: &quot;Run&quot;,
-    &quot;Python.TurtleRace.executor&quot;: &quot;Run&quot;,
-    &quot;Python.advancedDecorator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.data_manager.executor&quot;: &quot;Run&quot;,
-    &quot;Python.day48-start.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hello.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hello_flask.executor&quot;: &quot;Run&quot;,
-    &quot;Python.interaction.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.pythonDecorators.executor&quot;: &quot;Run&quot;,
-    &quot;Python.python_bot.executor&quot;: &quot;Run&quot;,
-    &quot;Python.server.executor&quot;: &quot;Run&quot;,
-    &quot;Python.sign_up.executor&quot;: &quot;Run&quot;,
-    &quot;Python.speed_calc_decorator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.start.executor&quot;: &quot;Run&quot;,
-    &quot;Python.tkinter-demo.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Yash/Desktop/DSA&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.100 Days OF Python.executor": "Run",
+    "Python.BandNameGenerator.executor": "Run",
+    "Python.CaesarCipher_Final.executor": "Run",
+    "Python.Hangman_final.executor": "Run",
+    "Python.PasswordGenerator.executor": "Run",
+    "Python.RockPaperScissors.executor": "Run",
+    "Python.SecretAuction_project.executor": "Run",
+    "Python.TipCalculator.executor": "Run",
+    "Python.TreasureIsland.executor": "Run",
+    "Python.TurtleRace.executor": "Run",
+    "Python.data_manager.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.start.executor": "Run",
+    "Python.tkinter-demo.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Yash/Desktop/100 Days OF Python/Day05/PasswordGenerator.py",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Yash\Desktop\100 Days OF Python\Day33\ISS_OVERHEAD_PROJECT" />
@@ -114,5 +130,16 @@
   </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName=".env" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
