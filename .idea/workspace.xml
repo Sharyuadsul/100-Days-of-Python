@@ -5,10 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b52b4d36-d0a8-4949-87e4-ea79c6b0734b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Day45/bs4-start/Scraping_live_website.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day46/MusicalTimeMachineProject/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day47/Automated Amazon Price Tracker/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day48/CookieClickerGame/python_bot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day48/day48-start.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day48/interaction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day48/sign_up.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day49/Automating Job Application on Linkedin/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day50/Auto Tinder Swiping Bot/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day51/Twitter Complaint Bot/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day52/Instagram Follower Bot/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day54/hello_flask.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day54/pythonDecorators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day54/speed_calc_decorator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day55/HigherLower/server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day55/advancedDecorator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day55/hello.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day56/My Personal Site/server.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day39/Flight_Cheaper_Deals_Project/flight-deals-start/data_manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day39/Flight_Cheaper_Deals_Project/flight-deals-start/data_manager.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day45/bs4-start/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day45/bs4-start/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,29 +43,39 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.100 Days OF Python.executor": "Run",
-    "Python.BandNameGenerator.executor": "Run",
-    "Python.CaesarCipher_Final.executor": "Run",
-    "Python.Hangman_final.executor": "Run",
-    "Python.PasswordGenerator.executor": "Run",
-    "Python.RockPaperScissors.executor": "Run",
-    "Python.Scraping_live_website.executor": "Run",
-    "Python.SecretAuction_project.executor": "Run",
-    "Python.TipCalculator.executor": "Run",
-    "Python.TreasureIsland.executor": "Run",
-    "Python.TurtleRace.executor": "Run",
-    "Python.data_manager.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.start.executor": "Run",
-    "Python.tkinter-demo.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Yash/Desktop/100 Days OF Python/Day05/PasswordGenerator.py",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.100 Days OF Python.executor&quot;: &quot;Run&quot;,
+    &quot;Python.BandNameGenerator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.CaesarCipher_Final.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Hangman_final.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PasswordGenerator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.RockPaperScissors.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Scraping_live_website.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SecretAuction_project.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TipCalculator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TreasureIsland.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TurtleRace.executor&quot;: &quot;Run&quot;,
+    &quot;Python.advancedDecorator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.data_manager.executor&quot;: &quot;Run&quot;,
+    &quot;Python.day48-start.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hello.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hello_flask.executor&quot;: &quot;Run&quot;,
+    &quot;Python.interaction.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pythonDecorators.executor&quot;: &quot;Run&quot;,
+    &quot;Python.python_bot.executor&quot;: &quot;Run&quot;,
+    &quot;Python.server.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sign_up.executor&quot;: &quot;Run&quot;,
+    &quot;Python.speed_calc_decorator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.start.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tkinter-demo.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Yash/Desktop/DSA&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Yash\Desktop\100 Days OF Python\Day33\ISS_OVERHEAD_PROJECT" />
