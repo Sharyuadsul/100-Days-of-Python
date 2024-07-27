@@ -4,12 +4,12 @@ import os
 load_dotenv(dotenv_path='../../.env')
 from twilio.rest import Client
 
-#
-# owm_endpoint = "http://api.openweathermap.org/data/2.5/forecast"
-# aplikey= os.environ["WEATHER_APIKEY"]
-#
-# account_sid = os.getenv('TWILIO_SID')
-# auth_token = os.getenv('TWILIO_AUTH_TOKEN')
+
+owm_endpoint = "http://api.openweathermap.org/data/2.5/forecast"
+aplikey= os.environ["WEATHER_APIKEY"]
+
+account_sid = os.getenv('TWILIO_SID')
+auth_token = os.getenv('TWILIO_AUTH_TOKEN')
 
 parameters = {
     "lat":18.520430,
@@ -32,8 +32,8 @@ for hour_data in weather_data["list"]:
 if will_rain:
     print("Bring An Umbrella!")
     client = Client(account_sid, auth_token)
-    message = client.messages \
-            .create(
+    message = client.messages\
+        .create(
         body="Its going to rain today. Bring an Umbrella..",
         from_=os.getenv('TWILIO_NUMBER'),
         to=os.getenv('MY_NUMBER')
