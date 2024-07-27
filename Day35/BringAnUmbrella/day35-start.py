@@ -4,12 +4,12 @@ import os
 load_dotenv(dotenv_path='../../.env')
 from twilio.rest import Client
 
-
-owm_endpoint = "http://api.openweathermap.org/data/2.5/forecast"
-aplikey= os.environ["WEATHER_APIKEY"]
-
-account_sid = os.getenv('TWILIO_SID')
-auth_token = os.getenv('TWILIO_AUTH_TOKEN')
+#
+# owm_endpoint = "http://api.openweathermap.org/data/2.5/forecast"
+# aplikey= os.environ["WEATHER_APIKEY"]
+#
+# account_sid = os.getenv('TWILIO_SID')
+# auth_token = os.getenv('TWILIO_AUTH_TOKEN')
 
 parameters = {
     "lat":18.520430,

@@ -4,6 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="b52b4d36-d0a8-4949-87e4-ea79c6b0734b" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/Day56/day-56 start/server.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Day56/day-56 start/static/style.css" afterDir="false" />
@@ -19,6 +20,9 @@
       <change beforePath="$PROJECT_DIR$/Day35/BringAnUmbrella/day35-start.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day35/BringAnUmbrella/day35-start.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Day56/My Personal Site/server.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day56/name-card-project/server.py" afterDir="false" />
     </list>
+=======
+    <list default="true" id="b52b4d36-d0a8-4949-87e4-ea79c6b0734b" name="Changes" comment="" />
+>>>>>>> origin/master
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,6 +61,7 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+<<<<<<< HEAD
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
@@ -80,6 +85,28 @@
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/Yash/Desktop/100 Days OF Python/Day56/my_personal_site/static&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+=======
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.100 Days OF Python.executor": "Run",
+    "Python.BandNameGenerator.executor": "Run",
+    "Python.CaesarCipher_Final.executor": "Run",
+    "Python.Hangman_final.executor": "Run",
+    "Python.PasswordGenerator.executor": "Run",
+    "Python.RockPaperScissors.executor": "Run",
+    "Python.SecretAuction_project.executor": "Run",
+    "Python.TipCalculator.executor": "Run",
+    "Python.TreasureIsland.executor": "Run",
+    "Python.TurtleRace.executor": "Run",
+    "Python.data_manager.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.start.executor": "Run",
+    "Python.tkinter-demo.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "Rebasing master",
+    "last_opened_file_path": "C:/Users/Yash/Desktop/100 Days OF Python/Day05/PasswordGenerator.py",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+>>>>>>> origin/master
   }
 }</component>
   <component name="RecentsManager">
