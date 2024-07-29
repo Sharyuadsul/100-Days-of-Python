@@ -1,14 +1,13 @@
 # Ignore virtual environments
 venv/
-*/.venv/
+.venv/
 
 # Ignore IDE settings
 .idea/
-*/.idea/
 
 # Ignore macOS system files
 .DS_Store
-*/_MACOSX/
+_MACOSX/
 
 # Ignore local .env files
 *.env
